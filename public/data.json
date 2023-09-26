@@ -1,7 +1,10 @@
 [
     {
+        "id": "1",
         "category": "Food",
         "title": "Donate to Provide Delicious Meals",
+        "description": "Your donation will help us provide delicious and nutritious meals to those in need.",
+        "price": 20.0,
         "image": "https://i.ibb.co/Bq9sstn/Food.png",
         "square_image": "https://i.ibb.co/5h0jJwT/Rectangle-4287-2.png",
         "title_color": "#F87147",
@@ -9,8 +12,11 @@
         "category_background": "#F8714733"
     },
     {
+        "id": "2",
         "category": "Health",
         "title": "Support Health Initiatives",
+        "description": "Your support will contribute to health initiatives aimed at improving the well-being of communities.",
+        "price": 30.0,
         "image": "https://i.ibb.co/Cn58xm0/Health.png",
         "square_image": "https://i.ibb.co/BgTyzXF/Rectangle-4284.png",
         "title_color": "#0052FF",
@@ -18,8 +24,11 @@
         "category_background": "#0052FF33"
     },
     {
+        "id": "3",
         "category": "Clothing",
         "title": "Help Provide Clothing to Those in Need",
+        "description": "Your donation will support our efforts to provide clothing to individuals in need, keeping them warm and comfortable.",
+        "price": 25.0,
         "image": "https://i.ibb.co/gz5hGzJ/Clothing.png",
         "square_image": "https://i.ibb.co/KmqS8BD/Rectangle-4287.png",
         "title_color": "#79C23F",
@@ -27,8 +36,11 @@
         "category_background": "#79C23F33"
     },
     {
+        "id": "4",
         "category": "Education",
         "title": "Support Education for Underprivileged Children",
+        "description": "Your donation will help provide quality education to underprivileged children, giving them a brighter future.",
+        "price": 15.0,
         "image": "https://i.ibb.co/TqLCYC1/Education.png",
         "square_image": "https://i.ibb.co/rHqJtLj/Rectangle-4287-1.png",
         "title_color": "#FF444A",
@@ -36,8 +48,11 @@
         "category_background": "#FF444A33"
     },
     {
+        "id": "5",
         "category": "Food",
         "title": "Donate for a Healthier Tomorrow",
+        "description": "Your donation will help us work towards a healthier future by providing nutritious food to those in need.",
+        "price": 20.0,
         "image": "https://i.ibb.co/Bq9sstn/Food.png",
         "square_image": "https://i.ibb.co/5h0jJwT/Rectangle-4287-2.png",
         "title_color": "#F87147",
@@ -45,8 +60,11 @@
         "category_background": "#F8714733"
     },
     {
+        "id": "6",
         "category": "Health",
         "title": "Give the Gift of Nutritious Food",
+        "description": "Your donation will provide nutritious food to individuals and families in need, promoting their health and well-being.",
+        "price": 30.0,
         "image": "https://i.ibb.co/Cn58xm0/Health.png",
         "square_image": "https://i.ibb.co/BgTyzXF/Rectangle-4284.png",
         "title_color": "#0052FF",
@@ -54,8 +72,11 @@
         "category_background": "#0052FF33"
     },
     {
+        "id": "7",
         "category": "Clothing",
         "title": "Donate Clothing for a Better Life",
+        "description": "Your donation of clothing items will help individuals lead better lives with warmth and dignity.",
+        "price": 25.0,
         "image": "https://i.ibb.co/gz5hGzJ/Clothing.png",
         "square_image": "https://i.ibb.co/KmqS8BD/Rectangle-4287.png",
         "title_color": "#79C23F",
@@ -63,8 +84,11 @@
         "category_background": "#79C23F33"
     },
     {
+        "id": "8",
         "category": "Clothing",
         "title": "Support Clothing Drives",
+        "description": "Your support for clothing drives will provide essential clothing to those in need, making a positive impact on their lives.",
+        "price": 20.0,
         "image": "https://i.ibb.co/gz5hGzJ/Clothing.png",
         "square_image": "https://i.ibb.co/KmqS8BD/Rectangle-4287.png",
         "title_color": "#79C23F",
@@ -72,8 +96,11 @@
         "category_background": "#79C23F33"
     },
     {
+        "id": "9",
         "category": "Education",
         "title": "Empower Future Generations through Education",
+        "description": "Your donation will empower future generations through quality education, shaping the leaders of tomorrow.",
+        "price": 15.0,
         "image": "https://i.ibb.co/TqLCYC1/Education.png",
         "square_image": "https://i.ibb.co/rHqJtLj/Rectangle-4287-1.png",
         "title_color": "#FF444A",
@@ -81,8 +108,11 @@
         "category_background": "#FF444A33"
     },
     {
+        "id": "10",
         "category": "Education",
         "title": "Donate for Access to Quality Education",
+        "description": "Your donation will provide access to quality education for underserved communities, breaking the cycle of poverty.",
+        "price": 20.0,
         "image": "https://i.ibb.co/TqLCYC1/Education.png",
         "square_image": "https://i.ibb.co/rHqJtLj/Rectangle-4287-1.png",
         "title_color": "#FF444A",
@@ -90,8 +120,11 @@
         "category_background": "#FF444A33"
     },
     {
+        "id": "11",
         "category": "Food",
         "title": "Help Alleviate Hunger",
+        "description": "Your donation will play a crucial role in alleviating hunger and food insecurity in our communities.",
+        "price": 25.0,
         "image": "https://i.ibb.co/Bq9sstn/Food.png",
         "square_image": "https://i.ibb.co/5h0jJwT/Rectangle-4287-2.png",
         "title_color": "#F87147",
@@ -99,8 +132,11 @@
         "category_background": "#F8714733"
     },
     {
+        "id": "12",
         "category": "Health",
         "title": "Support Healthcare Initiatives",
+        "description": "Your support will contribute to healthcare initiatives that improve access to medical services and promote well-being.",
+        "price": 30.0,
         "image": "https://i.ibb.co/Cn58xm0/Health.png",
         "square_image": "https://i.ibb.co/BgTyzXF/Rectangle-4284.png",
         "title_color": "#0052FF",
