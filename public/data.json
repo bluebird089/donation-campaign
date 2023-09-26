@@ -1,0 +1,110 @@
+[
+    {
+        "category": "Food",
+        "title": "Donate to Provide Delicious Meals",
+        "image": "https://i.ibb.co/Bq9sstn/Food.png",
+        "square_image": "https://i.ibb.co/5h0jJwT/Rectangle-4287-2.png",
+        "title_color": "#F87147",
+        "card_color": "#F8714726",
+        "category_background": "#F8714733"
+    },
+    {
+        "category": "Health",
+        "title": "Support Health Initiatives",
+        "image": "https://i.ibb.co/Cn58xm0/Health.png",
+        "square_image": "https://i.ibb.co/BgTyzXF/Rectangle-4284.png",
+        "title_color": "#0052FF",
+        "card_color": "#0052FF26",
+        "category_background": "#0052FF33"
+    },
+    {
+        "category": "Clothing",
+        "title": "Help Provide Clothing to Those in Need",
+        "image": "https://i.ibb.co/gz5hGzJ/Clothing.png",
+        "square_image": "https://i.ibb.co/KmqS8BD/Rectangle-4287.png",
+        "title_color": "#79C23F",
+        "card_color": "#79C23F26",
+        "category_background": "#79C23F33"
+    },
+    {
+        "category": "Education",
+        "title": "Support Education for Underprivileged Children",
+        "image": "https://i.ibb.co/TqLCYC1/Education.png",
+        "square_image": "https://i.ibb.co/rHqJtLj/Rectangle-4287-1.png",
+        "title_color": "#FF444A",
+        "card_color": "#FF444A26",
+        "category_background": "#FF444A33"
+    },
+    {
+        "category": "Food",
+        "title": "Donate for a Healthier Tomorrow",
+        "image": "https://i.ibb.co/Bq9sstn/Food.png",
+        "square_image": "https://i.ibb.co/5h0jJwT/Rectangle-4287-2.png",
+        "title_color": "#F87147",
+        "card_color": "#F8714726",
+        "category_background": "#F8714733"
+    },
+    {
+        "category": "Health",
+        "title": "Give the Gift of Nutritious Food",
+        "image": "https://i.ibb.co/Cn58xm0/Health.png",
+        "square_image": "https://i.ibb.co/BgTyzXF/Rectangle-4284.png",
+        "title_color": "#0052FF",
+        "card_color": "#0052FF26",
+        "category_background": "#0052FF33"
+    },
+    {
+        "category": "Clothing",
+        "title": "Donate Clothing for a Better Life",
+        "image": "https://i.ibb.co/gz5hGzJ/Clothing.png",
+        "square_image": "https://i.ibb.co/KmqS8BD/Rectangle-4287.png",
+        "title_color": "#79C23F",
+        "card_color": "#79C23F26",
+        "category_background": "#79C23F33"
+    },
+    {
+        "category": "Clothing",
+        "title": "Support Clothing Drives",
+        "image": "https://i.ibb.co/gz5hGzJ/Clothing.png",
+        "square_image": "https://i.ibb.co/KmqS8BD/Rectangle-4287.png",
+        "title_color": "#79C23F",
+        "card_color": "#79C23F26",
+        "category_background": "#79C23F33"
+    },
+    {
+        "category": "Education",
+        "title": "Empower Future Generations through Education",
+        "image": "https://i.ibb.co/TqLCYC1/Education.png",
+        "square_image": "https://i.ibb.co/rHqJtLj/Rectangle-4287-1.png",
+        "title_color": "#FF444A",
+        "card_color": "#FF444A26",
+        "category_background": "#FF444A33"
+    },
+    {
+        "category": "Education",
+        "title": "Donate for Access to Quality Education",
+        "image": "https://i.ibb.co/TqLCYC1/Education.png",
+        "square_image": "https://i.ibb.co/rHqJtLj/Rectangle-4287-1.png",
+        "title_color": "#FF444A",
+        "card_color": "#FF444A26",
+        "category_background": "#FF444A33"
+    },
+    {
+        "category": "Food",
+        "title": "Help Alleviate Hunger",
+        "image": "https://i.ibb.co/Bq9sstn/Food.png",
+        "square_image": "https://i.ibb.co/5h0jJwT/Rectangle-4287-2.png",
+        "title_color": "#F87147",
+        "card_color": "#F8714726",
+        "category_background": "#F8714733"
+    },
+    {
+        "category": "Health",
+        "title": "Support Healthcare Initiatives",
+        "image": "https://i.ibb.co/Cn58xm0/Health.png",
+        "square_image": "https://i.ibb.co/BgTyzXF/Rectangle-4284.png",
+        "title_color": "#0052FF",
+        "card_color": "#0052FF26",
+        "category_background": "#0052FF33"
+    }
+]

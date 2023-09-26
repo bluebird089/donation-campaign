@@ -3,12 +3,12 @@ import { Link } from "react-router-dom";
 const Navbar = () => {
     return (
         <div>
-            <div className="navbar bg-base-100">
+            <div className="navbar flex items-center justify-between bg-transparent absolute">
                 <div className="flex-1">
-                    <a className="btn btn-ghost normal-case text-xl">daisyUI</a>
+                    <a className="w-1/5" href="/"><img src="../../../public/Logo.png" alt="" /></a>
                 </div>
                 <div className="flex-none">
-                    <ul className="menu menu-horizontal px-1">
+                    <ul className="flex gap-5">
                         <li><Link to="/"><a>Home</a></Link></li>
                         <li><Link to="/donation"><a>Donation</a></Link></li>
                         <li><Link to="/statistics"><a>Statistics</a></Link></li>
