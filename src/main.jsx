@@ -10,6 +10,7 @@ import {
 } from "react-router-dom";
 import './index.css'
 import ErrorElement from './components/ErrorElement/ErrorElement';
+import DonationDetails from './components/DonationDetails/DonationDetails';
 
 const router = createBrowserRouter([
   {
@@ -29,6 +30,11 @@ const router = createBrowserRouter([
         path: "/statistics",
         element: <Stats></Stats>,
       },
+      {
+        path: "/details/:id",
+        element: <DonationDetails></DonationDetails>,
+        loader: () => fetch('/data.json')
+      }
     ]
   },
 ]);
