@@ -11,7 +11,7 @@ const DonationContainer = () => {
     }, [])
 
     return (
-        <div className="grid grid-cols-4 gap-5 m-5">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-5 p-4 container mx-auto">
             {
                 donations.map(donation => <DonationCard key={donation.id} donation={donation}></DonationCard>)
             }
