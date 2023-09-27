@@ -5,7 +5,7 @@ const Navbar = () => {
     return (
         <div className="navbar flex items-center justify-between bg-transparent absolute">
             <div className="flex-1">
-                <a className="w-40 md:w-60" href="/"><img src="../../../public/Logo.png" alt="" /></a>
+                <a className="w-40 md:w-60" href="/"><img src="../../assets/Logo.png" alt="" /></a>
             </div>
             <div className="flex-none">
                 <ul className="gap-5 hidden lg:flex">
