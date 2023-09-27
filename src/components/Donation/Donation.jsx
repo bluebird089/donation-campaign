@@ -34,7 +34,7 @@ const Donation = () => {
                     {
                         displayCard?.slice(0, display).map(card => <DonatedCard key={card.id} card={card}></DonatedCard>)
                     }
-                </div> : <div className="
+                </div> : <div className="flex h-screen w-full justify-center items
                 ">Not Donated Yet</div>
             }
             <div className={`flex justify-center py-5 ${displayCard.length <= 4 && 'hidden' } ${display === displayCard.length && 'hidden'}`}>
