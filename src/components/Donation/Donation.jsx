@@ -28,7 +28,7 @@ const Donation = () => {
     }
 
     return (
-        <div className="container mx-auto pt-28">
+        <div className="container mx-auto pt-28 px-3 md:px-0">
             {
                 displayCard.length > 0 ? <div className="grid grid-cols-1 md:grid-cols-2 gap-5">
                     {

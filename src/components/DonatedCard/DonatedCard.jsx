@@ -14,14 +14,16 @@ const DonatedCard = ({ card }) => {
     }
     return (
         <div style={color} className="flex items-center rounded-xl">
-            <img src={square_image} alt="" />
-            <div className="flex-1 p-5  space-y-1">
+            <div className='w-1/3 md:w-7/12 lg:w-5/12'>
+                <img className='w-full' src={square_image} alt="" />
+            </div>
+            <div className="flex-1 p-1 lg:p-5  lg:space-y-2">
                 <div style={categoryColor} className='inline-block px-1 rounded'>
-                    <h4 className="font-semibold text-sm">{category}</h4>
+                    <h4 className="font-semibold text-xs sm:text-base">{category}</h4>
                 </div>
-                <h2 className="font-semibold text-black text-lg">{title}</h2>
-                <h2 className="font-semibold text-lg">{price}</h2>
-                <button style={btnStyle} className="btn text-white">View Details</button>
+                <h2 className="font-semibold text-xs text-black sm:text-base lg:text-2xl">{title}</h2>
+                <h2 className="font-semibold text-xs md:text-base lg:text-lg">{price}</h2>
+                <button style={btnStyle} className="text-white text-sm px-2 py-1 rounded lg:text-lg">View Details</button>
             </div>
         </div>
     );

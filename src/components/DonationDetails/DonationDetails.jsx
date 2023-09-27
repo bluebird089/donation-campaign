@@ -16,7 +16,7 @@ const DonationDetails = () => {
         backgroundColor: title_color
     }
     return (
-        <div className="w-4/6 mx-auto pt-24 pb-5">
+        <div className="md:w-4/6 px-5 md:px-0 mx-auto pt-24 pb-5">
             <div className="w-full flex items-center flex-col relative">
                 <img className="w-full" src={image} alt="" />
                 <div className="bg-[#0B0B0B80] w-full absolute bottom-0 p-3">
@@ -24,8 +24,8 @@ const DonationDetails = () => {
                 </div>
             </div>
             <div className="mx-auto mt-2 space-y-1">
-                <h3 className="text-3xl font-bold">{title}</h3>
-                <p className="text-xl">{description}</p>
+                <h3 className="md:text-3xl font-bold">{title}</h3>
+                <p className="md:text-xl">{description}</p>
             </div>
         </div>
     );
