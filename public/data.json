@@ -4,7 +4,7 @@
         "category": "Food",
         "title": "Donate to Provide Delicious Meals",
         "description": "Your donation will help us provide delicious and nutritious meals to those in need.",
-        "price": 20.0,
+        "price": "20.0$",
         "image": "https://i.ibb.co/Bq9sstn/Food.png",
         "square_image": "https://i.ibb.co/5h0jJwT/Rectangle-4287-2.png",
         "title_color": "#F87147",
